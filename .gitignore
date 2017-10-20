@@ -1,5 +1,6 @@
-srcData
-test
-train
-Data/*.log
-Data/*.err
+/srcData
+/test
+/train
+/Data/*.log
+/Data/*.err
+/Data/*.user
