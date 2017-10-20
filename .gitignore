@@ -1,5 +1,5 @@
-srcData
-test
-train
+/srcData
+/test
+/train
 Data/*.log
 Data/*.err
