@@ -1,0 +1,5 @@
+srcData
+test
+train
+Data/*.log
+Data/*.err

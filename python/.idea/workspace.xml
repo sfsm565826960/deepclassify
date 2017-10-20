@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="a3b4569c-3144-43d4-9df7-1ac2a0fd1ee3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$filter_invaild_value.coverage" NAME="filter_invaild_value Coverage Results" MODIFIED="1508158987030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$kw_output.coverage" NAME="kw_output Coverage Results" MODIFIED="1508231836745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$split_to_group.coverage" NAME="split_to_group Coverage Results" MODIFIED="1508375575786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1508374916895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$filter_invaild_key.coverage" NAME="filter_invaild_key Coverage Results" MODIFIED="1508155307864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$delete_simple_line.coverage" NAME="delete_simple_line Coverage Results" MODIFIED="1508468022236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pick_kw_from_url.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#512#521#0" expanded="true" />
+                <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+                <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter_invaild_value.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2574">
+              <caret line="119" column="24" lean-forward="false" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+              <folding>
+                <element signature="e#663#672#0" expanded="true" />
+                <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+                <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+                <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+                <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+                <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+                <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+                <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+                <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+                <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+                <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+                <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+                <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+                <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+                <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+                <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+                <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+                <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+                <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+                <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+                <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+                <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+                <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+                <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+                <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+                <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+                <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+                <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete_simple_line.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/delete_simple_line.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="e#355#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="85" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csv_to_file.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2090">
+              <caret line="97" column="16" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="97" selection-end-column="16" />
+              <folding>
+                <element signature="e#472#482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_to_csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_to_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="25" />
+              <folding>
+                <element signature="e#451#461#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kw_output.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kw_output.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <folding>
+                <element signature="e#380#389#0" expanded="true" />
+                <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+                <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+                <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+                <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+                <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="split_to_group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/split_to_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+              <folding>
+                <element signature="e#345#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shutil.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/shutil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1694">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>base</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/filter_invaild_key.py" />
+        <option value="$PROJECT_DIR$/pick_kw_from_url.py" />
+        <option value="$PROJECT_DIR$/user_kw.py" />
+        <option value="$PROJECT_DIR$/kw_output.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/file_to_csv.py" />
+        <option value="$PROJECT_DIR$/split_to_group.py" />
+        <option value="$PROJECT_DIR$/csv_to_file.py" />
+        <option value="$PROJECT_DIR$/filter_invaild_value.py" />
+        <option value="$PROJECT_DIR$/delete_simple_line.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7.10 (C:\Python27\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bimen\Desktop\人才交流中心\作业4-深度学习分类\DeepClassifier_java\python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.delete_simple_line">
+    <configuration name="delete_simple_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delete_simple_line.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="filter_invaild_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filter_invaild_value.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="kw_output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kw_output.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="split_to_group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_to_group.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.filter_invaild_value" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.kw_output" />
+      <item index="3" class="java.lang.String" itemvalue="Python.split_to_group" />
+      <item index="4" class="java.lang.String" itemvalue="Python.delete_simple_line" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.delete_simple_line" />
+        <item index="1" class="java.lang.String" itemvalue="Python.split_to_group" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.kw_output" />
+        <item index="4" class="java.lang.String" itemvalue="Python.filter_invaild_value" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\bimen\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b4569c-3144-43d4-9df7-1ac2a0fd1ee3" name="Default" comment="" />
+      <created>1508141536302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508141536302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3726708" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/split_to_group.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="rows" />
+        <watch expression="lastValue" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="119" column="24" lean-forward="false" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="85" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="97" column="16" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="97" selection-end-column="16" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="e#451#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+            <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+            <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+            <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+            <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+            <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_to_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="e#345#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_simple_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="e#355#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#512#521#0" expanded="true" />
+            <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+            <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="85" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="e#451#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+            <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+            <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+            <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+            <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+            <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_to_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="e#345#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="119" column="24" lean-forward="true" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#512#521#0" expanded="true" />
+            <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+            <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_to_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding>
+            <element signature="e#345#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="85" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <element signature="e#451#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="59" column="10" lean-forward="true" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+            <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+            <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+            <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+            <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+            <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="58" column="68" lean-forward="false" selection-start-line="58" selection-start-column="68" selection-end-line="58" selection-end-column="68" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#512#521#0" expanded="true" />
+            <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+            <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+            <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+            <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+            <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+            <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+            <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_to_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="23" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#345#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="82" column="22" lean-forward="false" selection-start-line="80" selection-start-column="6" selection-end-line="82" selection-end-column="22" />
+          <folding>
+            <element signature="e#512#521#0" expanded="true" />
+            <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+            <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="31" column="43" lean-forward="false" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="164" column="3" lean-forward="false" selection-start-line="164" selection-start-column="3" selection-end-line="166" selection-end-column="22" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+            <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+            <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+            <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+            <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+            <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#512#521#0" expanded="true" />
+            <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+            <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="94" column="11" lean-forward="true" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_key.py" />
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_key.py" />
+    <entry file="file://$PROJECT_DIR$/all.txt" />
+    <entry file="file://$PROJECT_DIR$/source/zh_4g_kw_filter.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="59" lean-forward="true" selection-start-line="0" selection-start-column="59" selection-end-line="0" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick_kw_from_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#512#521#0" expanded="true" />
+            <marker date="1508247394450" expanded="true" signature="1538:1556" ph="insert into table... " />
+            <marker date="1508247394450" expanded="true" signature="2489:2507" ph="insert into table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="85" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split_to_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="e#345#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kw_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#380#389#0" expanded="true" />
+            <marker date="1508326884085" expanded="true" signature="1058:1083" ph="create table... zh_4g_kw_filter_output" />
+            <marker date="1508326884085" expanded="true" signature="1097:1416" ph="select msisd... msisdn" />
+            <marker date="1508326884085" expanded="true" signature="1145:1357" ph="select user.... *" />
+            <marker date="1508326884085" expanded="true" signature="1234:1248" ph="select * fro... zh_4g_kw_filter" />
+            <marker date="1508326884085" expanded="true" signature="1293:1307" ph="select * fro... zh_sex_age" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_invaild_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="119" column="24" lean-forward="false" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+          <folding>
+            <element signature="e#663#672#0" expanded="true" />
+            <marker date="1508399136767" expanded="true" signature="2477:2495" ph="create table... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="2511:2707" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="2511:2709" ph="select v, ms... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4337:4360" ph="create table... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="4376:4752" ph="select t0.v,... v" />
+            <marker date="1508399136767" expanded="true" signature="4433:4471" ph="select v, uc... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4481" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4433:4501" ph="select v, co... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4549:4576" ph="select v,msi... missing_value_tmp0" />
+            <marker date="1508399136767" expanded="true" signature="4549:4577" ph="select v,msi... missing_value_tmp1" />
+            <marker date="1508399136767" expanded="true" signature="4655:4679" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4655:4704" ph="select msisd... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="4970:4993" ph="create table... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5009:5097" ph="select v, se... missing_value_tmp2" />
+            <marker date="1508399136767" expanded="true" signature="5265:5291" ph="create table... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="5307:5731" ph="select * fro... select" />
+            <marker date="1508399136767" expanded="true" signature="5307:5740" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5307:5785" ph="select * fro... v" />
+            <marker date="1508399136767" expanded="true" signature="5342:5731" ph="select man.v... v" />
+            <marker date="1508399136767" expanded="true" signature="5552:5593" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="5645:5686" ph="select v, sc... missing_value_tmp3" />
+            <marker date="1508399136767" expanded="true" signature="6018:6022" ph="create table... missing_value" />
+            <marker date="1508399136767" expanded="true" signature="6035:6270" ph="select from domainname" />
+            <marker date="1508399136767" expanded="true" signature="6035:6278" ph="select kw.ms... *" />
+            <marker date="1508399136767" expanded="true" signature="6102:6111" ph="select domai... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6102:6126" ph="select * fro... missing_value_invaild" />
+            <marker date="1508399136767" expanded="true" signature="6186:6200" ph="select * fro... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_to_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="97" column="16" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="97" selection-end-column="16" />
+          <folding>
+            <element signature="e#472#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="e#451#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_simple_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#355#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
