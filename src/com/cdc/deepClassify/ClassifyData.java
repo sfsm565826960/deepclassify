@@ -1,6 +1,5 @@
 package com.cdc.deepClassify;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 

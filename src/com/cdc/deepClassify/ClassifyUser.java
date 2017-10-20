@@ -47,19 +47,19 @@ public class ClassifyUser {
 		}
 	}
 	
-	public static ClassifyUser isNewUser(String _msisdn, String _sex, String _age, String _value){
+	public static ClassifyUser isNewUser(String msisdn, String sex, String age, String value){
 		if (null == user) {
-			user = new ClassifyUser(_msisdn, _sex, _age, _value);
+			user = new ClassifyUser(msisdn, sex, age, value);
 			return null;
-		} else if (_msisdn.equals(user.msisdn)) {
-			user.addValue(_value);
+		} else if (msisdn.equals(user.msisdn)) {
+			user.addValue(value);
 			return null;
 		} else if (user.value.length() == 0) { // 忽略无value的用户
-			user = new ClassifyUser(_msisdn, _sex, _age, _value);
+			user = new ClassifyUser(msisdn, sex, age, value);
 			return null;
 		} else {
 			ClassifyUser old = user;
-			user = new ClassifyUser(_msisdn, _sex, _age, _value);
+			user = new ClassifyUser(msisdn, sex, age, value);
 			return old;
 		}
 	}
