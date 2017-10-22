@@ -1,12 +1,14 @@
 package com.cdc.deepClassify;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 public class ClassifyUser {
 	private static ClassifyUser user = null;
 	
-	public String msisdn, sex, age, value = "";
+	public String msisdn = "";
+	public String sex = "";
+	public String age = "";
+	public String value = "";
 	public HashMap<String,String> labels = new HashMap<String,String>();
 	
 	
@@ -15,7 +17,7 @@ public class ClassifyUser {
 	}
 	
 	public ClassifyUser(String msisdn, String sex, String age, String value){
-		this.msisdn = msisdn;
+		this.msisdn = msisdn.substring(msisdn.length() - 32);
 		this.sex = sex;
 		this.age = age;
 		this.value = value.trim();
@@ -47,11 +49,15 @@ public class ClassifyUser {
 		}
 	}
 	
+	public static void clear(){
+		user = null;
+	}
+	
 	public static ClassifyUser isNewUser(String msisdn, String sex, String age, String value){
 		if (null == user) {
 			user = new ClassifyUser(msisdn, sex, age, value);
 			return null;
-		} else if (msisdn.equals(user.msisdn)) {
+		} else if (user.msisdn.equals(msisdn.substring(msisdn.length() - 32))) {
 			user.addValue(value);
 			return null;
 		} else if (user.value.length() == 0) { // 忽略无value的用户
